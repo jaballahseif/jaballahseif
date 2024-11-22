@@ -1,31 +1,14 @@
-## About Me
-I'm a computer science graduate with expertise in Flutter, Java, and Augmented Reality (AR). I'm passionate about developing innovative web and mobile applications, including integrating immersive AR features.
+# Hi 👋, I'm Saifeddine Jaballah
 
-## Skills
-- Flutter
-- Java
-- Augmented Reality (AR)
-  
-## Experience
-### INDAUTECH | Industrial Automation Technologies
-**Project Lead Developer** *(June 2024 - Present)*
-- Developed a custom conveyor system with a SCARA Robot and barcode scanner.
-- Created a demo web interface with interactive 2D/3D elements.
-- Developed a mobile app for real-time industrial machine monitoring and control.
+I'm a computer science graduate with a passion for innovative technologies, particularly in the fields of Flutter, Java, and Augmented Reality (AR).
 
-**Intern** *(January 2024 - May 2024)*
-- Developed web and mobile apps for industrial machine monitoring and control.
-- Integrated AR features in the mobile app for intuitive user interaction.
-- Designed an admin management system for secure operations.
+🔭 I'm currently working as a Project Lead Developer at INDAUTECH, where I'm developing industrial automation solutions, including a mobile app for real-time machine monitoring and control.
 
-### CGI studio
-**Summer Intern** *(June 2023 - July 2023)*
-- Developed a multiplayer mobile game with AR elements.
+🌱 I'm currently studying at ESPRIT university.
 
-## Education
-- **Ecole Supérieure Privée d'Ingénierie et de Technologies - ESPRIT**, Engineer's degree in Computer Science *(September 2024)*
-- **The Higher Institute of Information Technologies and Communication**, Bachelor's in Computer Science *(September 2020 - May 2024)*
+👯 I'm eager to collaborate on exciting projects that push the boundaries of what's possible in the world of mobile development and AR.
 
-## Contact
-- Email: saifedine.jaballah@gmail.com
-- LinkedIn: [www.linkedin.com/in/jaballahsaifeddine](www.linkedin.com/in/jaballahsaifeddine)
+📫 You can reach me at [saifedine.jaballah@gmail.com](mailto:saifedine.jaballah@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/jaballahsaifeddine).
+
+🌐 Socials:
+- [LinkedIn](www.linkedin.com/in/jaballahsaifeddine)
