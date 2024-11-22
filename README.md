@@ -9,6 +9,3 @@ I'm a computer science graduate with a passion for innovative technologies, part
 👯 I'm eager to collaborate on exciting projects that push the boundaries of what's possible in the world of mobile development and AR.
 
 📫 You can reach me at [saifedine.jaballah@gmail.com](mailto:saifedine.jaballah@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/jaballahsaifeddine).
-
-🌐 Socials:
-- [LinkedIn](www.linkedin.com/in/jaballahsaifeddine)
