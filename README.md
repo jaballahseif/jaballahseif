@@ -1,6 +1,6 @@
 # Hi 👋, I'm Saifeddine Jaballah
 
-I'm a computer science graduate with a passion for innovative technologies, particularly in the fields of Flutter, Java, and Augmented Reality (AR).
+Bachelor’s degree in Computer Science with skills in Flutter, Java, and Unity. Experienced in web and mobile apps, including AR integration. Passionate about problem-solving, teamwork, and driving innovation in tech.
 
 🔭 I'm currently working as a Project Lead Developer at INDAUTECH, where I'm developing industrial automation solutions, including a mobile app for real-time machine monitoring and control.
 
