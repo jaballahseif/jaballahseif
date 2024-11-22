@@ -7,10 +7,7 @@ I'm a computer science graduate with expertise in Flutter, Java, and Augmented R
 - Flutter
 - Java
 - Augmented Reality (AR)
-
-## Certifications
-- Big Data Engineer Certificate
-
+- 
 ## Experience
 ### INDAUTECH | Industrial Automation Technologies
 **Project Lead Developer** *(June 2024 - Present)*
