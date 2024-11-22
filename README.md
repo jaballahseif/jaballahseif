@@ -1,5 +1,3 @@
-# Saifeddine Jaballah
-
 ## About Me
 I'm a computer science graduate with expertise in Flutter, Java, and Augmented Reality (AR). I'm passionate about developing innovative web and mobile applications, including integrating immersive AR features.
 
