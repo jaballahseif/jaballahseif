@@ -8,4 +8,4 @@ Bachelor’s degree in Computer Science with skills in Flutter, Java, and Unity.
 
 👯 I'm eager to collaborate on exciting projects that push the boundaries of what's possible in the world of mobile development and AR.
 
-📫 You can reach me at [saifedine.jaballah@gmail.com](mailto:saifedine.jaballah@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/jaballahsaifeddine).
+📫 You can reach me at [saifedine.jaballah@gmail.com](mailto:saifedine.jaballah@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/jaballah-saifeddine/).
